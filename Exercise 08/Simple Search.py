@@ -18,4 +18,4 @@ if found:
     print(f"{target_person} is on the list.")
 # Prints if the target person is not found.
 else:
-    print(f"{Target_person} is not on the list.")
+    print(f"{target_person} is not on the list.")
